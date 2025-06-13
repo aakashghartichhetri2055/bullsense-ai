@@ -1,4 +1,4 @@
-# BullSense.ai :'Your Market's Sixth Sense'
+# BullSense.ai - Your Market's Sixth Sense
 
 Welcome to **BullSense.ai**, an intelligent AI-powered stock trading decision system designed to help traders make smarter buy/sell calls based on real market patterns, not just gut feelings.
 
